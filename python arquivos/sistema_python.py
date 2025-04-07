@@ -1,3 +1,4 @@
+
 #-*- coding: UTF-8 -*-
 
 #validando a opção
@@ -7,7 +8,7 @@ def saudacao(nome):
 def menu():
     print("Escolha uma opção:")
     print("1 - Ver uma mensagem motivacional")
-    print("2 - Ver a hora atual (fictícia)")
+    print("2 - Ver a hora atual (tempo real)")
     print("3 - Sair")
 
 #pegando o nome do usuario
